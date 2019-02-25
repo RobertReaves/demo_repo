@@ -27,6 +27,8 @@
     "@lk/web-core-schlepper": "^1.8.0",
     "@lk/web-home-slice": "^5.2.0",
     "@lk/catch-tag-release": "1.0.0",
+    "@lk/demo_repo2": "1.0.0",
+    "@lk/demo_repo3": "1.0.0",
     "babel-polyfill": "^6.13.0",
     "babel-preset-react": "^6.11.1",
     "react-addons-test-utils": "^15.4.0",
