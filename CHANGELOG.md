@@ -1,5 +1,9 @@
 ## 10.x
 
+### 10.2.0
+
+* Updated package.json
+
 ### 10.1.0
 
 * made ext .yaml
